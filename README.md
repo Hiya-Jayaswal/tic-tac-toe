@@ -1,5 +1,5 @@
-#TIC-TAC-TOE 
-###by Hiya Jayaswal
+**TIC-TAC-TOE **
+by Hiya Jayaswal
 
 This is a simple Tic-Tac-Toe game built with React. Players take turns marking spaces in a 3×3 grid, aiming to place three of their marks in a horizontal, vertical, or diagonal row.
 
